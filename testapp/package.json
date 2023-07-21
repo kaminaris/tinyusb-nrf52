@@ -1,0 +1,13 @@
+{
+	"name": "testapp",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Pawel",
+	"license": "MIT",
+	"dependencies": {
+		"node-hid": "^2.1.2"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
